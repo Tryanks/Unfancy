@@ -1,0 +1,4 @@
+interface:
+  display_name: "Unfancy"
+  short_description: "Normalize awkward UI and product copy into plain wording."
+  default_prompt: "Use $unfancy to review and rewrite product copy so labels, statuses, and actions use plain, semantically correct wording instead of ornamental or AI-sounding language."
