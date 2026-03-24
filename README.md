@@ -56,7 +56,3 @@ Example prompt:
 ```text
 Use $unfancy to review and rewrite this settings page copy.
 ```
-
-## Notes For Updates
-
-When updating the skill, keep `SKILL.md` and `agents/openai.yaml` aligned so the skill behavior and displayed metadata describe the same thing.
